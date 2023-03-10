@@ -1,0 +1,15 @@
+.operationsBlock {
+	display: flex;
+	min-width: 240px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+	border-radius: 6px;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.06), 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.buttonsLine {
+	display: flex;
+	min-width: 240px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
